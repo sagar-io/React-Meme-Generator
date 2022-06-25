@@ -1,4 +1,4 @@
-##Live Site URL -> [Meme Generator](https://meme-generator-io.netlify.app)
+## Live Site URL -> [Meme Generator](https://meme-generator-io.netlify.app)
 
 # Getting Started with Create React App
 
